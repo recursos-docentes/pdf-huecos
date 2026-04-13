@@ -1,8 +1,3 @@
-Readme · MD
-
-
-Visual Studio Code
-
 # Taller de Lógica con micro:bit — Metodología PRIMM
  
 Recurso docente para trabajar compuertas lógicas y pensamiento computacional con placas **micro:bit** usando la metodología **PRIMM** (Predict · Run · Investigate · Modify · Make).
